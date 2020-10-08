@@ -49,3 +49,15 @@ We have a dataset of manufacturing company. The dataset consists of two colummns
 <p>
 Thus, we need to find the relation of profit of the company and the population of the city. Thus, after finding the optimal relation we can predict the profits for various unknown cities based on the knowledge of their population. 
 </p>
+<br>
+
+## EVENT CERTIFICATION CRITERIA 
+- FORK THE REPOSITORY
+- OPEN THE EVENT FOLDER (IN YOUR FORKED REPO)
+- CREATE A NEW FILE **WITH YOUR GITHUB USERNAME AS YOUR FILENAME**
+- IN FIRST TWO LINES WRITE YOUR NAME AND EMAIL-ID RESPECTIVELY
+- WRITE THE SUMMARY OF THE EVENT IN YOUR WORDS
+- COMMIT THE FILE 
+- CREATE A PULL REQUEST <br>
+**AND YOU ARE DONE!!😁😁**
+
