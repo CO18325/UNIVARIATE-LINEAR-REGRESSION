@@ -3,6 +3,7 @@
 
 <hr>
 
+
 <p>
   
   **A short paragarph on what you have learned from this session**
