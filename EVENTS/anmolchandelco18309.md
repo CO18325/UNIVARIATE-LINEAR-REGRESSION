@@ -1,28 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Anmol Chandel
 # email id- anmolchandel2001@gmail.com
 Hello inderpreet singh.
